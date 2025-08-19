@@ -1,4 +1,4 @@
-# 📚 Book Inventory Analysis – SAL_BW_Project_1
+# 📚 Book Inventory Analysis 
 
 ### **Project Leader:** Neha Gupta  
 ### **Team Members:** Adarsh Rai, Ujjwal Jain  
